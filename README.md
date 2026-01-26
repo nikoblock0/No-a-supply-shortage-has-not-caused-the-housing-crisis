@@ -3,7 +3,7 @@ This page shows technical documentation for my article for the Canadian Centre f
 
 Here is a brief rundown of the contents of this package: 
 
-* * "Block_ccpa_fin_2026_technical.pdf" shows a thorough version of the article, with footnotes, citations, and a technical appendix. 
+* "Block_ccpa_fin_2026_technical.pdf" shows a thorough version of the article, with footnotes, citations, and a technical appendix. 
 
 * "Block_ccpa_fin_2026_input.xlsx" contains all of the untransformed raw data used in this analysis, most of it copied from StatsCan tables. Sheet 2 is the same as Sheet 1 but displays details of the data sources at the bottom. 
 
