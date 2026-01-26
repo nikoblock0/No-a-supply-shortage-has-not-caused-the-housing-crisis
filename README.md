@@ -3,7 +3,7 @@ This page shows technical documentation for my article for the Canadian Centre f
 
 Here is a brief rundown of the contents of this package: 
 
-* * "Block_ccpa_fin_2026_revision_technical.pdf" shows a thorough version of the article, with footnotes, citations, and a technical appendix. 
+* * "Block_ccpa_fin_2026_technical.pdf" shows a thorough version of the article, with footnotes, citations, and a technical appendix. 
 
 * "Block_ccpa_fin_2026_input.xlsx" contains all of the untransformed raw data used in this analysis, most of it copied from StatsCan tables. Sheet 2 is the same as Sheet 1 but displays details of the data sources at the bottom. 
 
@@ -11,7 +11,6 @@ Here is a brief rundown of the contents of this package:
 
 * "Block_ccpa_fin_2026_output.xlsx" is the output data, i.e. after it has been transformed by the Stata code. 
 
-***********************************************************
 ***********************************************************
 
 Additionally, I will give a brief note on how to reproduce the three graphs using Excel or other non-Stata software. 
@@ -33,5 +32,3 @@ To recreate Figure 2 on relative housing stock, graph the following two variable
 To recreate Figure 3 on real household debt, graph the following two variables: 
 	* agg_cred_inc
 	* agg_mort_inc
-
-
