@@ -15,20 +15,6 @@ Here is a brief rundown of the contents of this package:
 
 Additionally, I will give a brief note on how to reproduce the three graphs using Excel or other non-Stata software. 
 
-* Figure 1. Real home price 
-
-To recreate Figure 1 on real home price, graph the following two variables from "Block_ccpa_fin_2026_output.xlsx": 
-	* bench_avinc
-	* bench_medinc
-
-* Figure 2. Relative housing stock 
-
-To recreate Figure 2 on relative housing stock, graph the following two variables: 
-	* dwelpthou
-	* dwelpthouadlt
-
-* Figure 3. Real household debt 
-
-To recreate Figure 3 on real household debt, graph the following two variables: 
-	* agg_cred_inc
-	* agg_mort_inc
+* To recreate Figure 1 on real home price, graph the following two variables from "Block_ccpa_fin_2026_output.xlsx": bench_avinc & bench_medinc
+* To recreate Figure 2 on relative housing stock, graph the following two variables: dwelpthou & dwelpthouadlt
+* To recreate Figure 3 on real household debt, graph the following two variables: agg_cred_inc &  agg_mort_inc
