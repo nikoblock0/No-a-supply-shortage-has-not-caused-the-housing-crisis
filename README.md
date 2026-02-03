@@ -1,5 +1,5 @@
 # No-a-supply-shortage-has-not-caused-the-housing-crisis
-This page shows technical documentation for my article for the Canadian Centre for Policy Alternatives, "No, a supply shortage has not caused the housing crisis." 
+This page shows technical documentation for my article for the Canadian Centre for Policy Alternatives, "The numbers don’t lie: The housing crisis is not caused by a supply shortage." 
 
 Here is a brief rundown of the contents of this package: 
 
